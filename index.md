@@ -1,5 +1,9 @@
 # Testing 1234
 
+- [x] eat breakfast
+- [x] read email
+- [ ] do actual work
+
 ```python
 print("Hello World!")
 ```
